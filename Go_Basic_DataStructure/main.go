@@ -42,14 +42,15 @@ func main() {
 	//Maps
 
 	/*
-			var map_1 map[int]int
-			map_2 := map[int]string{
+		        map[Key_Type]Value_Type{}
+				var map_1 map[int]int
+				map_2 := map[int]string{
 
-				90: "Dog",
-				91: "Cat",
-				92: "Cow",
-				93: "Bird",
-				94: "Rabbit",
-		}
+					90: "Dog",
+					91: "Cat",
+					92: "Cow",
+					93: "Bird",
+					94: "Rabbit",
+			}
 	*/
 }
