@@ -42,7 +42,7 @@ func main() {
 		Name:  "Tea",
 		Price: 10.5,
 	}
-
+	// normal call
 	HarryPotter.printInfo()
 	Tea.printInfo()
 
